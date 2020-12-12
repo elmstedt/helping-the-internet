@@ -1,13 +1,4 @@
----
-title: "Test if a value is in a region"
-author: "Jake Elmstedt"
-date: "12/11/2020"
-output:
-  html_document:
-    keep_md: yes
----
-
-
+# "Test if a value is in a region"
 From: [u/omit89/](https://www.reddit.com/user/omit89/)  
 Source: [https://www.reddit.com/r/rprogramming/comments/k2ni75/i_am_stuck_with_a_simple_r_programming_problem/](https://www.reddit.com/r/rprogramming/comments/k2ni75/i_am_stuck_with_a_simple_r_programming_problem/)
 
